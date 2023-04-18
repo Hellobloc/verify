@@ -21,7 +21,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/final2.sol": "Deployer3"
+			"contracts/final2.sol": "Deployer"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -33,10 +33,10 @@
 	},
 	"sources": {
 		"contracts/final2.sol": {
-			"keccak256": "0x0630a4cccbd626e2b909d72569b4f17754203e71ccb2de75d703bbd81ecbacf3",
+			"keccak256": "0xedeb05e6b719ec65c5bb61ed6341888069d0dc6ee3f5955a016d732a5fa545c6",
 			"urls": [
-				"bzz-raw://2c6119b36e6489b05520f7d29fb6eed0b69f2f48c586504035d73af0d3b103f0",
-				"dweb:/ipfs/QmbgUswtxPkdc7jLc96KV6oBYgZifRZDFaMAKefanAcFdL"
+				"bzz-raw://f0be618aa19d7ab5b494a0d1c2c1071a2bac949641252cc0155bbf6f75d4b11a",
+				"dweb:/ipfs/QmRXg6TgoThaqkdH9zed3rCvnytYChcfdn49wDACaaSaM4"
 			]
 		}
 	},
