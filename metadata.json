@@ -32,7 +32,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/metadata.sol": {
+		"contracts/final2.sol": {
 			"keccak256": "0x86e62980441e69e00dccb73eafbe9aebca93c63d685d3343793b1ac9d0cd7c03",
 			"urls": [
 				"bzz-raw://8a6752f877d1b9f6e7ef2fcf381ea9aa83db417517e90c005e59626edef2b414",
