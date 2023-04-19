@@ -32,11 +32,11 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/final2.sol": {
-			"keccak256": "0x02ccc4e3aa92393883b0fdd4ced4820d515dba58497d712de64d61ddd2ca9733",
+		"contracts/metadata.sol": {
+			"keccak256": "0x86e62980441e69e00dccb73eafbe9aebca93c63d685d3343793b1ac9d0cd7c03",
 			"urls": [
-				"bzz-raw://bea3d28d3794f3783b84b1c6f41bd06a4f192e1ce7b0f945f4bd502794dc5dc8",
-				"dweb:/ipfs/QmeHiTg1XRXPTsKxiRWaShzcnzhhANp2qmYq8pJieGdt56"
+				"bzz-raw://8a6752f877d1b9f6e7ef2fcf381ea9aa83db417517e90c005e59626edef2b414",
+				"dweb:/ipfs/QmXsm78QTXj1TzqBgqHyXoakk3Rp77C4HniNz7rwcma2oC"
 			]
 		}
 	},
