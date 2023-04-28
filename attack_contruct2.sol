@@ -1,16 +1,8 @@
 pragma solidity = 0.4.26;
-contract A_1{
+import "./modifier.sol";
+contract A_1 is OnlyOwner{
     uint public c;
-    constructor() public payable{
-        assembly{
-            0x82
-            dup1
-            0x11
-            0x00
-            codecopy
-            0x00
-            return
-        }
+    constructor() public payable initOwner{
     }
     function d() public payable{
         c = 400;
