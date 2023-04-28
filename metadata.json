@@ -1,53 +1,38 @@
 {
 	"compiler": {
-		"version": "0.4.26+commit.4563c3fc"
+		"version": "0.8.19+commit.7dd6d404"
 	},
 	"language": "Solidity",
 	"output": {
 		"abi": [
 			{
-				"constant": false,
 				"inputs": [],
-				"name": "d",
+				"name": "f",
 				"outputs": [],
-				"payable": true,
 				"stateMutability": "payable",
 				"type": "function"
-			},
-			{
-				"constant": true,
-				"inputs": [],
-				"name": "c",
-				"outputs": [
-					{
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"payable": false,
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"payable": true,
-				"stateMutability": "payable",
-				"type": "constructor"
 			}
 		],
 		"devdoc": {
-			"methods": {}
+			"kind": "dev",
+			"methods": {},
+			"version": 1
 		},
 		"userdoc": {
-			"methods": {}
+			"kind": "user",
+			"methods": {},
+			"version": 1
 		}
 	},
 	"settings": {
 		"compilationTarget": {
 			"contracts/attack_contruct2.sol": "A_1"
 		},
-		"evmVersion": "byzantium",
+		"evmVersion": "paris",
 		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
 		"optimizer": {
 			"enabled": false,
 			"runs": 200
@@ -56,9 +41,10 @@
 	},
 	"sources": {
 		"contracts/attack_contruct2.sol": {
-			"keccak256": "0x89112f607f7acdacfc3b9d8f86e1e0c62668e3fff5c3513e65deb0460556f3ce",
+			"keccak256": "0x9c5263d055ab684a46f2992206b64c3725e2dc1e64a40a71cecd1a33092da1bd",
 			"urls": [
-				"bzzr://21a619ed696a2eabb2fd9f95219f8ac82b354aac563994e1034e0ab3dca84143"
+				"bzz-raw://b77e9678c498768f62cae7af66c856a6b842510fb67d9e4c35f02bc55d27b95d",
+				"dweb:/ipfs/QmQgpZqfGGPV6ggCCQ5dSXXQb8zSk8hTFQQ63w54yGnNbp"
 			]
 		}
 	},
