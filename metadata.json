@@ -1,30 +1,30 @@
 {
 	"compiler": {
-		"version": "0.5.17+commit.d19bba13"
+		"version": "0.8.19+commit.7dd6d404"
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [
-			{
-				"inputs": [],
-				"payable": false,
-				"stateMutability": "nonpayable",
-				"type": "constructor"
-			}
-		],
+		"abi": [],
 		"devdoc": {
-			"methods": {}
+			"kind": "dev",
+			"methods": {},
+			"version": 1
 		},
 		"userdoc": {
-			"methods": {}
+			"kind": "user",
+			"methods": {},
+			"version": 1
 		}
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/final2.sol": "Deployer"
+			"contracts/test_start_with.sol": "LLL"
 		},
-		"evmVersion": "istanbul",
+		"evmVersion": "paris",
 		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
 		"optimizer": {
 			"enabled": false,
 			"runs": 200
@@ -32,11 +32,11 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/final2.sol": {
-			"keccak256": "0x86e62980441e69e00dccb73eafbe9aebca93c63d685d3343793b1ac9d0cd7c03",
+		"contracts/test_start_with.sol": {
+			"keccak256": "0x39584a91ae4f99e196552ca74b527af5a4594e7ce26a25ebde11576c83241bbb",
 			"urls": [
-				"bzz-raw://8a6752f877d1b9f6e7ef2fcf381ea9aa83db417517e90c005e59626edef2b414",
-				"dweb:/ipfs/QmXsm78QTXj1TzqBgqHyXoakk3Rp77C4HniNz7rwcma2oC"
+				"bzz-raw://a81b40b214cbdb31a0d5147263c19b2ecc6527480371afd9c40a81b5bca631cd",
+				"dweb:/ipfs/QmQj7zWm88gYH1XvjyrXMstgxpyM3jNztytSM6cPSH424D"
 			]
 		}
 	},
